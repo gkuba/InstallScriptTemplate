@@ -91,3 +91,10 @@ normal user; it refuses to run as root.
 
 - [Arch-GKuba](https://github.com/gkuba/Arch-GKuba) `post-install.sh`: the
   reference implementation of the engine.
+- [dotfiles](https://github.com/gkuba/dotfiles) `setup-dotfiles.sh`: shell
+  tools, the bare dotfiles repo, Zsh plugins and Fastfetch preferences on
+  pacman and apt systems.
+
+## License
+
+MIT; see [LICENSE](LICENSE).
